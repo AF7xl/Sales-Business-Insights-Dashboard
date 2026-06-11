@@ -103,15 +103,15 @@ Created an interactive Power BI dashboard consisting of:
 
 ## Executive Sales Dashboard
 
-![Executive Dashboard](screenshots/page1_dashboard.png)
+![Executive Dashboard](images/page1_dashboard.png)
 
 ## Product & Customer Analysis
 
-![Product Analysis](screenshots/page2_product_analysis.png)
+![Product Analysis](images/page2_product_analysis.png)
 
 ## Executive Insights & Recommendations
 
-![Executive Summary](screenshots/page3_executive_summary.png)
+![Executive Summary](images/executive_summary.png)
 
 ---
 
